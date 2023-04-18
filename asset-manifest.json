@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React_assig9/static/css/main.073c9b0a.css",
-    "main.js": "/React_assig9/static/js/main.9a2c4c23.js",
-    "static/js/787.91f894b4.chunk.js": "/React_assig9/static/js/787.91f894b4.chunk.js",
-    "index.html": "/React_assig9/index.html",
-    "main.073c9b0a.css.map": "/React_assig9/static/css/main.073c9b0a.css.map",
-    "main.9a2c4c23.js.map": "/React_assig9/static/js/main.9a2c4c23.js.map",
-    "787.91f894b4.chunk.js.map": "/React_assig9/static/js/787.91f894b4.chunk.js.map"
+    "main.css": "/React_assign9/static/css/main.073c9b0a.css",
+    "main.js": "/React_assign9/static/js/main.ab7e6031.js",
+    "static/js/787.91f894b4.chunk.js": "/React_assign9/static/js/787.91f894b4.chunk.js",
+    "index.html": "/React_assign9/index.html",
+    "main.073c9b0a.css.map": "/React_assign9/static/css/main.073c9b0a.css.map",
+    "main.ab7e6031.js.map": "/React_assign9/static/js/main.ab7e6031.js.map",
+    "787.91f894b4.chunk.js.map": "/React_assign9/static/js/787.91f894b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9a2c4c23.js"
+    "static/js/main.ab7e6031.js"
   ]
 }
